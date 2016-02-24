@@ -8,13 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
-static NSString *const DEFAULT_KEYWORD = @"ytdl";
-static NSString *const UPLOAD_PLAYLIST = @"Replace me with the playlist ID you want to upload into";
+static NSString *const DEFAULT_KEYWORD = @"YOUTUBERUFI";
+static NSString *const UPLOAD_PLAYLIST = @"testing";
 
-static NSString *const kClientID = @"Replace me with your project's Client ID";
-static NSString *const kClientSecret = @"Replace me with your project's Client Secret";
+static NSString *const kClientID = @"688107532507-74jfkkq0efvqemuea5c6rkiu8voslgvm.apps.googleusercontent.com";
+static NSString *const kClientSecret = @"AIzaSyBqvVt8A-hcKWjLosPCHByXrPVcTj4za5E";
 
-static NSString *const kKeychainItemName = @"YouTube Direct Lite";
+static NSString *const kKeychainItemName = @"YOUTUBERUFI";
 
 @interface Utils : NSObject
 
